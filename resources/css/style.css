@@ -9,14 +9,14 @@ h1 {
   color: white;
 }
 
-h4, a {
+h4 {
   font-size: 18px;
   color: white;
 }
 
 h2 {
   font-size: 32px;
-  font-weight:bold;
+  font-weight: bold;
 }
 
 .flatiron {
@@ -24,4 +24,24 @@ h2 {
   background-position: center;
   background-size: cover;
   text-align: center;
+}
+
+.design {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+}
+
+.bottom {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+a {
+  color: white;
 }
